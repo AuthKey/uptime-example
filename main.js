@@ -5,7 +5,7 @@
     var services = [
         { id: 'website', api_key: 'm778226038-1f2914c5d7db93867f9e88c6' },
         { id: 'api',   api_key: 'm778226037-138c9c1ed2fa6151196b035d' },
-        { id: 'server', api_key: 'm778226041-610e3fb940de07fef936e15a' }
+        { id: 'pages', api_key: 'm778226041-610e3fb940de07fef936e15a' }
         
     ];
 
