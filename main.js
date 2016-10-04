@@ -3,9 +3,9 @@
 
     var MONITOR_URL = "https://api.uptimerobot.com/getMonitors?apiKey={{API_KEY}}&format=json&noJsonCallback=1&customUptimeRatio=1-7-30-365";
     var services = [
-        { id: 'website', api_key: 'm********-hashkey' },
-        { id: 'api',   api_key: 'm********-hashkey' },
-        { id: 'server', api_key: 'm********-hashkey' }
+        { id: 'website', api_key: 'm778226038-1f2914c5d7db93867f9e88c6' },
+        { id: 'api',   api_key: 'm778226037-138c9c1ed2fa6151196b035d' },
+        { id: 'server', api_key: 'm778226041-610e3fb940de07fef936e15a' }
         
     ];
 
